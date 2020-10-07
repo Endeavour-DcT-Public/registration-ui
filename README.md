@@ -1,2 +1,1 @@
-# registration-ui
-registration-ui
+# Registration UI
