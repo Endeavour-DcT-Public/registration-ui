@@ -9,6 +9,7 @@ import { UserRegistationService } from './user-registation.service';
 import { HttpClientModule } from '@angular/common/http';
 import { FormsModule } from '@angular/forms';
 
+
 @NgModule({
   declarations: [
     AppComponent,
